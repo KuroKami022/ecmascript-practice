@@ -131,3 +131,6 @@ dist
 
 #NODE
 node_modules
+
+#json
+package.json
